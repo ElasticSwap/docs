@@ -1,0 +1,16 @@
+# Table of contents
+
+* [ElasticSwap](README.md)
+  * [Token Launch](elasticswap/token-launch.md)
+  * [Token Emissions](elasticswap/token-emissions.md)
+  * [How ElasticSwap Works](elasticswap/how-elasticswap-works.md)
+  * [The Math](elasticswap/the-math.md)
+* [Ampleforth Partnership](ampleforth-partnership.md)
+* [Staking](staking.md)
+* [Treasury Management](treasury-management.md)
+* [Avalanche](avalanche.md)
+* [Timeline](timeline.md)
+* [Resources](resources.md)
+* [Software](software/README.md)
+  * [@elasticswap/elasticswap](software/elasticswap-elasticswap.md)
+  * [@elasticswap/sdk](software/elasticswap-sdk.md)
