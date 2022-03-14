@@ -19,6 +19,7 @@ description: >-
 * `Alpha (α)` - The ERC20 balance of `baseToken` currently in the Exchange.
 * `Beta (β)` - The ERC20 balance of `quoteToken` currently in the Exchange.
 * `Omega (ω)` - `X/Y` - The ratio of the internal balance of `baseToken` to the internal balance of `quoteToken`.
+* `iOmega (iω)` - `Y/X` - The ratio of the internal balance of `quoteToken` to the internal balance of `baseToken`.
 * `K` - `X*Y` - The product of the internal balance of `baseToken` and the internal balance of `quoteToken`. It is used to price trades between `baseToken` and `quoteToken`.
 * `Sigma (σ)` - `α/β` - The ratio of the balance of `baseToken` currently in the Exchange to the balance of `quoteToken` currently in the Exchange.
 * `AlphaDecay (α^)` - `α-X` - The amount of `Alpha(α)` not contributing to the liquidity due to an imbalance in the tokens caused by elastic supply (a rebase).
