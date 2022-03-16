@@ -11,6 +11,7 @@
 * [Avalanche](avalanche.md)
 * [Timeline](timeline.md)
 * [Resources](resources.md)
+  * [Tutorials](resources/tutorials.md)
   * [Deployed Addresses](deployments.md)
 * [Software](software/README.md)
   * [@elasticswap/elasticswap](software/elasticswap-elasticswap.md)
