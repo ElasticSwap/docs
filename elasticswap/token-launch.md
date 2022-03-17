@@ -14,7 +14,7 @@ $TIC is the native governance token for ElasticSwap. It has no hard cap to its s
 
 1\) ~~Participating in the Pre-seed~~ (closed)
 
-2\) Seeding the initial public market on Sushi
+2\) ~~Seeding the initial public market on Sushi~~ (closed)
 
 3\) Being a contributing member of the core team
 
