@@ -6,8 +6,6 @@ description: $TIC is the native governance token for ElasticSwap
 
 ## Where and How?&#x20;
 
-![](../.gitbook/assets/B1TDYlFA\_400x400.jpeg)
-
 ElasticSwap will be launching on Avalanche. We want to go where the project will have the highest possible support. We believe that the low gas fees and Avalanche's generally supportive environment towards innovative projects will result in a faster early growth cycle. We will be looking to bridge $TIC and launch the platform on Ethereum Mainnet and other EVM chains shortly after our initial launch.
 
 The ElasticSwap team is a big fan of the fair launch approach taken by Alchemix with their $ALCX token. In designing the launch and release schedule, we've taken heavy influence from their team. We believe that the majority of the tokens should go to people who contribute to the protocol, specifically, the team who builds it, former ElasticDAO members who have chosen to support ElasticSwap, and liquidity providers who seed the markets.
