@@ -1,5 +1,13 @@
 # Tutorials
 
+Buying $TIC on SushiSwap&#x20;
+
+{% embed url="https://vimeo.com/689604085" %}
+
+{% hint style="info" %}
+NOTE: The Sushi UI displays USDC.e as USDC.
+{% endhint %}
+
 SushiSwap LP Staking Tutorial&#x20;
 
 {% embed url="https://vimeo.com/689213601" %}
