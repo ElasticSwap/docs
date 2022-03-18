@@ -1,6 +1,6 @@
 # Tutorials
 
-Buying $TIC on SushiSwap&#x20;
+**Buying $TIC on SushiSwap**&#x20;
 
 {% embed url="https://vimeo.com/689604085" %}
 
@@ -8,7 +8,7 @@ Buying $TIC on SushiSwap&#x20;
 NOTE: The Sushi UI displays USDC.e as USDC.
 {% endhint %}
 
-SushiSwap LP Staking Tutorial&#x20;
+**SushiSwap LP Staking Tutorial**&#x20;
 
 {% embed url="https://vimeo.com/689213601" %}
 
@@ -16,10 +16,10 @@ SushiSwap LP Staking Tutorial&#x20;
 NOTE: The Sushi UI displays USDC.e as USDC.
 {% endhint %}
 
-How to Pre-seed Tutorial
+**How to Pre-seed Tutorial**
 
 {% embed url="https://vimeo.com/689308860" %}
 
-How to add Avalanche C-Chain to Metamask via chainlist.org
+**How to add Avalanche C-Chain to Metamask via chainlist.org**
 
 {% embed url="https://vimeo.com/689239289" %}
