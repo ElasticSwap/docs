@@ -10,7 +10,7 @@ NOTE: The Sushi UI displays USDC.e as USDC.
 
 **SushiSwap LP Staking Tutorial**&#x20;
 
-{% embed url="https://vimeo.com/689213601" %}
+{% embed url="https://vimeo.com/693006689" %}
 
 {% hint style="info" %}
 NOTE: The Sushi UI displays USDC.e as USDC.
