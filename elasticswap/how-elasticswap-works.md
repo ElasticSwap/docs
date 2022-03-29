@@ -53,6 +53,6 @@ Pool balances before rebase:&#x20;
 
 Pool balances after rebase:&#x20;
 
-9000 (0 decay) AMPL / 10000 (1000 decay) USDC, 1 AMPL costs 1,0001111235 USDC&#x20;
+9000 (0 decay) AMPL / 9000 (1000 decay) USDC, 1 AMPL costs 1,0001111235 USDC&#x20;
 
 With ElasticSwap the decay is settled when the next LP enters. Let's say the LP is willing to enter with 2000 AMPL and 2000 USDC. In the first (10% positive rebase) example, the LP would actually enter with 1000 AMPL and 2000 USDC, resolving the decay. In the second example (10% negative rebase) they would enter with 2000 AMPL and 1000 USDC. When LP tokens are redeemed, the LP receives their share of the entire balances including decay. In the first example, redeeming 10% of the total LP tokens would result in 1100 AMPL and 1000 USDC. In the second, 900 AMPL and 1000 USDC. These redemption amounts would be the same as with Uniswap V2 / Sushi.
