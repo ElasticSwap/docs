@@ -13,6 +13,7 @@
 * [Resources](resources.md)
   * [Tutorials](resources/tutorials.md)
   * [Deployed Addresses](deployments.md)
+* [ElasticSwap Token Suggestions](elasticswap-token-suggestions.md)
 * [Software](software/README.md)
   * [@elasticswap/elasticswap](software/elasticswap-elasticswap.md)
   * [@elasticswap/sdk](software/elasticswap-sdk.md)
