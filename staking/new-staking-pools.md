@@ -15,6 +15,8 @@ The ElasticSwap LP (ELP) Staking Pools work like a hybrid between a -ve and -x s
 
 When eligible tokens are staked in the Staking Pools, they are not locked. Rewards start to accrue instantly, but in an unrealized way, meaning stakers are entitled to a reward distribution as fees are collected by the treasury. Those staking rewards come in the form of $TIC-$USDC.e $ELP tokens. ElasticSwap charges a 50 bps fee as swaps occur (25 bps to LPs, 20bps to public stakers, and 5 bps for protocol operations). The public staker fees (the 20 bps due to the stakers) are converted by the treasury into $USDC.e, and then deposited into the Staking Pools contract, creating $ELP which represents a liquidity position in the $TIC-USDC.e pool. Stakers can claim their $ELP tokens and then restake them, or they can exit the $ELP position for the underlying $TIC and $USDC.e tokens.
 
+![The elasTIC way](../.gitbook/assets/image.png)
+
 ### Why did we choose this model?&#x20;
 
 This yield farming approach is designed to align the incentives of staking liquidity providers and the protocol itself. By tying staking reward distribution to fee generation, we ensure that the community is rewarded for promoting the platform, double the rewards the staker receives, and eliminate the incentive to sell their rewards to enter a $TIC/$USDC.e LP position. Stakers can also choose to take profit in the form of $USDC.e without creating $TIC sell pressure.
