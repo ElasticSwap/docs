@@ -17,3 +17,4 @@
 * [Software](software/README.md)
   * [@elasticswap/elasticswap](software/elasticswap-elasticswap.md)
   * [@elasticswap/sdk](software/elasticswap-sdk.md)
+* [New Staking Pools](new-staking-pools.md)
