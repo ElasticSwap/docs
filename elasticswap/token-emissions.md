@@ -4,6 +4,14 @@
 
 ### Changelog
 
+#### 2022-04-21
+
+Emissions decreased by 1500 / week to 53500 $TIC / week
+
+#### 2022-04-14
+
+Emissions decreased by 1500 / week to 55000 $TIC / week
+
 #### 2022-04-07
 
 Emissions decreased by 1500 / week to 56500 $TIC / week
