@@ -12,6 +12,10 @@ $TIC/$USDC SLP Staking (75% of public emissions)
 
 ### Changelog
 
+#### 2022-04-21
+
+_$TIC:_ 62.50%, _$TIC/$USDC ELP:_ 12.5%, _$AMPL/$TIC ELP:_ 12.5%, _$AMPL/$USDC ELP:_ 12.5%
+
 #### 2022-03-24
 
 _$TIC:_ 40%, _$TIC/$USDC SLP:_ 60%
