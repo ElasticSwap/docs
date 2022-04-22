@@ -1,5 +1,9 @@
 # Tutorials
 
+**Buying $AMPL on ElasticSwap using 1inch**
+
+{% embed url="https://vimeo.com/701917832" %}
+
 **Opening a new $TIC-USDC.e ELP position on ElasticSwap**
 
 {% embed url="https://vimeo.com/701387858" %}
