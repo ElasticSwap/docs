@@ -1,5 +1,9 @@
 # Tutorials
 
+**Buying $TIC on ElasticSwap using 1inch**
+
+{% embed url="https://vimeo.com/702946710" %}
+
 **Buying $AMPL on ElasticSwap using 1inch**
 
 {% embed url="https://vimeo.com/701917832" %}
