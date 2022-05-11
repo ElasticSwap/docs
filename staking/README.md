@@ -12,6 +12,11 @@ $TIC/$USDC SLP Staking (75% of public emissions)
 
 ### Changelog
 
+#### 2022-05-11
+
+_Avalanche: $TIC:_ 25%, _$TIC/$USDC.e ELP:_ 12.5%, _$AMPL/$TIC ELP:_ 12.5%, _$AMPL/$USDC.e ELP:_ 12.5%\
+Ethereum: $TIC/USDC ELP: 12.5%, $AMPL/USDC ELP: 12.5%, $FOXy/$FOX: 12.5%
+
 #### 2022-04-21
 
 _$TIC:_ 62.50%, _$TIC/$USDC ELP:_ 12.5%, _$AMPL/$TIC ELP:_ 12.5%, _$AMPL/$USDC ELP:_ 12.5%
