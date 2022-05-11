@@ -6,6 +6,7 @@
   * [How ElasticSwap Works](elasticswap/how-elasticswap-works.md)
   * [The Math](elasticswap/the-math.md)
 * [Ampleforth Partnership](ampleforth-partnership.md)
+* [ShapeShift Partnership](shapeshift-partnership.md)
 * [Staking](staking/README.md)
   * [New Staking Pools](staking/new-staking-pools.md)
 * [Treasury Management](treasury-management.md)
