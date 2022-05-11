@@ -58,3 +58,15 @@ At time t=1, we generate 1000 $USDC in fees and the are deposited into the staki
 At time t=2, a new whale staker comes along, and doubles the amount of tokens staked.&#x20;
 
 At time t=3, whale staker 1 now has as much unclaimed $TIC as all of the other stakers combined, but is not able to claim any of the $ELP minted at t=1.
+
+### How are staking rewards distributed when they become claimable?
+
+Step 1) Convert all fees on all chains to USDC to get a total amount of USDC.&#x20;
+
+Step 2) Look at the total unrealized $TIC across all chains to get a percentage of USDC due to each chain.&#x20;
+
+Step 3) Bridge the correct amount of USDC to the correct chains.
+
+Step 4) Deposit USDC into the staking contracts, minting ELP.&#x20;
+
+Step 5) Everyone can withdraw a percentage of the ELP created based on their percentage of the unrealized TIC.
