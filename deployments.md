@@ -9,6 +9,10 @@
 * [TIME Token DAO](https://snowtrace.io/address/0xBA41c2A2744e3749ab3E76FdFe6FCa5875D97660) - 0xBA41c2A2744e3749ab3E76FdFe6FCa5875D97660
 * [TIME Token Team](https://snowtrace.io/address/0x31fa86c83aE739220CE4fa93391BB321cC77670E) - 0x31fa86c83aE739220CE4fa93391BB321cC77670E
 * [TIME Token PreSeed](https://snowtrace.io/address/0x65C8CB3AFF7021c9A1579787e29B1c3D24c5cA59) - 0x65C8CB3AFF7021c9A1579787e29B1c3D24c5cA59
+* [Exchange Factory](https://snowtrace.io/address/0x8B3D780Db8842593d8b61632A2F76c4D4f31D7C3) - 0x8B3D780Db8842593d8b61632A2F76c4D4f31D7C3
+* [AMPL/USDC.e Exchange](https://snowtrace.io/address/0x1b80e501e397dbf8b7d86d06bd42679d61cac756) - 0x1b80e501e397dbf8b7d86d06bd42679d61cac756
+* [TIC/USDC.e Exchange](https://snowtrace.io/address/0x4ae1da57f2d6b2e9a23d07e264aa2b3bbcaed19a) - 0x4ae1da57f2d6b2e9a23d07e264aa2b3bbcaed19a
+* [AMPL/TIC Exchange](https://snowtrace.io/address/0xa0c5aa50ce3cc69b1c478d8235597bc0c51dfdab) - 0xa0c5aa50ce3cc69b1c478d8235597bc0c51dfdab
 
 #### Protocol
 
