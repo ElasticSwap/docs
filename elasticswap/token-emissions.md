@@ -1,8 +1,12 @@
 # Token Emissions
 
-![$TIC emissions over time - Emissions started at 61000/wk](<../.gitbook/assets/Emmissions schedule (1).png>)
+![$TIC emissions over time - Emissions started at 61000/wk](<../.gitbook/assets/Emmissions schedule.png>)
 
 ### Changelog
+
+#### 2022-05-26
+
+Emissions decreased by 1500 / week to 46000 $TIC / week
 
 #### 2022-05-19
 
